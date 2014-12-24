@@ -4,5 +4,4 @@ import Library
 print "hello omeed"
 print 5
 print os
-print Library
-
+print Library.xmas("xy")

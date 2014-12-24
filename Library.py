@@ -1,5 +1,4 @@
-def xmas():
-    x = None
+def xmas(x):
     if x:
         return 2+2
     else:
